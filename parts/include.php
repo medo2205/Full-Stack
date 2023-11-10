@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="./css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="./css/style1.css">
-    <title>Document</title>
+    <title>Win The Giveaway</title>
 </head>
 <body>
 
